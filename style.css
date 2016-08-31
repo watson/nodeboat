@@ -25,10 +25,14 @@ div#container div {
 
 div#container div h1 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: black;
   padding: 0 0.5em 0 0;
   bottom: 0;
   right: 0;
   position: absolute;
   text-align: right;
+}
+
+h1 a {
+  text-decoration: none;
+  color: black;
 }
