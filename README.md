@@ -19,7 +19,7 @@ back from participating.
 
 ## Participate
 
-[Got to GitHub issue #3 to sign up][7].
+[Go to GitHub issue #3 to sign up][7].
 
 ## Questions?
 
