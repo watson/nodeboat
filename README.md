@@ -7,7 +7,7 @@ Ok, so this might be a little nuts, but we decided to take [a cruise to
 Oslo from Copenhagen and back again][5] at the end of September - and we
 want all our current and future friends to come.
 
-We set out from Copenhagen at 4:30pm on Wednesday the 20th of September
+We set out from Copenhagen at 4:30pm on Tuesday the 20th of September
 and will arrive in Oslo, Norway the next morning. After spending the day
 in beautiful Oslo, we'll board the cruise ship for our return voyage
 back to Copenhagen where we'll arrive the morning after on the 22nd at
