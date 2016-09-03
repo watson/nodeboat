@@ -31,6 +31,10 @@ Ask questions on [Twitter][2], [IRC][3] or by [opening an issue][4].
 - Twitter: [@NodeBoatConf][2]
 - IRC: [#nodeboat on Freenode][3]
 
+## Attendees
+
+[johncoffee](https://github.com/johncoffee)
+
 ---
 
 NodeBoat was started at a birthday party in Copenhagen, Denmark by
