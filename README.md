@@ -33,7 +33,10 @@ Ask questions on [Twitter][2], [IRC][3] or by [opening an issue][4].
 
 ## Attendees
 
-[johncoffee](https://github.com/johncoffee)
+* [johncoffee](https://github.com/johncoffee)
+* [mafintosh](https://github.com/mafintosh)
+* [xiplias](https://github.com/xiplias)
+* [watson](https://github.com/watson)
 
 ---
 
