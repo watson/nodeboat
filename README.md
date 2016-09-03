@@ -29,6 +29,7 @@ back from participating.
 - [@sorribas](https://github.com/sorribas)
 - [@watson](https://github.com/watson)
 - [@xiplias](https://github.com/xiplias)
+- [@yoshuawuyts](https://github.com/yoshuawuyts)
 
 ## Questions?
 
