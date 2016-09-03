@@ -21,6 +21,15 @@ back from participating.
 
 [Go to GitHub issue #3 to sign up][7].
 
+### Attendees
+
+- [@halfzebra](https://github.com/halfzebra) + ?
+- [@johncoffee](https://github.com/johncoffee)
+- [@mafintosh](https://github.com/mafintosh)
+- [@sorribas](https://github.com/sorribas)
+- [@watson](https://github.com/watson)
+- [@xiplias](https://github.com/xiplias)
+
 ## Questions?
 
 Ask questions on [Twitter][2], [IRC][3] or by [opening an issue][4].
@@ -30,13 +39,6 @@ Ask questions on [Twitter][2], [IRC][3] or by [opening an issue][4].
 - Website: [nodebo.at][1]
 - Twitter: [@NodeBoatConf][2]
 - IRC: [#nodeboat on Freenode][3]
-
-## Attendees
-
-* [johncoffee](https://github.com/johncoffee)
-* [mafintosh](https://github.com/mafintosh)
-* [xiplias](https://github.com/xiplias)
-* [watson](https://github.com/watson)
 
 ---
 
