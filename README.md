@@ -39,6 +39,7 @@ Ask questions on [Twitter][2], [IRC][3] or by [opening an issue][4].
 - Website: [nodebo.at][1]
 - Twitter: [@NodeBoatConf][2]
 - IRC: [#nodeboat on Freenode][3]
+- [Cruise ship overview](https://www.dfdsseaways.co.uk/onboard-our-ferries/copenhagen-oslo/ship-overview)
 
 ---
 
