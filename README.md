@@ -30,6 +30,7 @@ back from participating.
 - [@watson](https://github.com/watson)
 - [@xiplias](https://github.com/xiplias)
 - [@yoshuawuyts](https://github.com/yoshuawuyts)
+- [@terezka](https://github.com/terezka)
 
 ## Questions?
 
