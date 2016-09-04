@@ -21,32 +21,33 @@ back from participating.
 
 [Go to GitHub issue #3 to sign up][7].
 
-## Events
-
-All events are self-organized, simply write your thing on the list along with a time/location, and its ON. IT'S ON!1
-
-### Workshops
-
-**NodeJS + Ethereum** by johncoffee. A hands-on workshop with [Ethereum "The World Computer"](https://ethereum.org). We'll author some Đapps in [Solidity](https://solidity.readthedocs.io/en/latest/), and connect to them via [javascript](https://en.wikipedia.org/wiki/JavaScript) using [Web3](https://github.com/ethereum/wiki/wiki/JavaScript-API). ~2 hours.
-
-### Extreme microtalks outside
-Very windy, blizzard, no slides, megaphone... You get the idea!
-
-Talks and rants:
-
-- The Corporation by johncoffee
-
-
 ### Attendees
 
 - [@halfzebra](https://github.com/halfzebra) + ?
 - [@johncoffee](https://github.com/johncoffee)
 - [@mafintosh](https://github.com/mafintosh)
 - [@sorribas](https://github.com/sorribas)
+- [@terezka](https://github.com/terezka)
 - [@watson](https://github.com/watson)
 - [@xiplias](https://github.com/xiplias)
 - [@yoshuawuyts](https://github.com/yoshuawuyts)
-- [@terezka](https://github.com/terezka)
+
+## Events
+
+All events are self-organized, simply write your thing on the list along
+with a time/location, and it's ON. IT'S ON!1
+
+### Workshops
+
+- **NodeJS + Ethereum** by johncoffee. A hands-on workshop with [Ethereum "The World Computer"](https://ethereum.org). We'll author some Đapps in [Solidity](https://solidity.readthedocs.io/en/latest/), and connect to them via [javascript](https://en.wikipedia.org/wiki/JavaScript) using [Web3](https://github.com/ethereum/wiki/wiki/JavaScript-API). ~2 hours.
+
+### Extreme microtalks outside
+
+Very windy, blizzard, no slides, megaphone... You get the idea!
+
+Talks and rants:
+
+- The Corporation by johncoffee
 
 ## Questions?
 
