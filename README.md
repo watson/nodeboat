@@ -23,9 +23,11 @@ back from participating.
 
 ### Attendees
 
-- [@halfzebra](https://github.com/halfzebra) + ?
+- [@dinero-per](https://github.com/dinero-per)
+- [@halfzebra](https://github.com/halfzebra)
 - [@johncoffee](https://github.com/johncoffee)
 - [@mafintosh](https://github.com/mafintosh)
+- [@mikkeldamm](https://github.com/mikkeldamm)
 - [@sorribas](https://github.com/sorribas)
 - [@terezka](https://github.com/terezka)
 - [@watson](https://github.com/watson)
