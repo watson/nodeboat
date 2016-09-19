@@ -30,6 +30,7 @@ back from participating.
 - [@johncoffee](https://github.com/johncoffee)
 - [@mafintosh](https://github.com/mafintosh)
 - [@mikkeldamm](https://github.com/mikkeldamm)
+- [@nazhady](https://github.com/nazhady)
 - [@sorribas](https://github.com/sorribas)
 - [@terezka](https://github.com/terezka)
 - [@watson](https://github.com/watson)
