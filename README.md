@@ -23,6 +23,7 @@ back from participating.
 
 ### Attendees
 
+- [@casperstorm](https://github.com/casperstorm)
 - [@dinero-per](https://github.com/dinero-per)
 - [@halfzebra](https://github.com/halfzebra)
 - [@johncoffee](https://github.com/johncoffee)
