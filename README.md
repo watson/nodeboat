@@ -26,6 +26,7 @@ back from participating.
 - [@casperstorm](https://github.com/casperstorm)
 - [@dinero-per](https://github.com/dinero-per)
 - [@halfzebra](https://github.com/halfzebra)
+- [@jahtalab](https://github.com/jahtalab)
 - [@johncoffee](https://github.com/johncoffee)
 - [@mafintosh](https://github.com/mafintosh)
 - [@mikkeldamm](https://github.com/mikkeldamm)
@@ -34,7 +35,6 @@ back from participating.
 - [@watson](https://github.com/watson)
 - [@xiplias](https://github.com/xiplias)
 - [@yoshuawuyts](https://github.com/yoshuawuyts)
-- [@jahtalab](https://github.com/jahtalab)
 
 ## Events
 
